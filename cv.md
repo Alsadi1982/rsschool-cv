@@ -13,3 +13,30 @@ I want to learn more about how best to use HTML, CSS and JavaScript when develop
 ### Skills
 
 C(entry level), Java(entry level), Python(entry level), JavaScript(entry level), ReactJS(entry level), JQuery(entry level), HTML, CSS
+
+### Code examples
+
+```javascript
+    function arrayToList(arr){
+    let list = null;
+    for(let i = arr.length-1; i>= 0; i--){
+        list={
+            value: arr[i],
+            rest: list
+        };
+    }
+    return list;
+}
+
+function listToArray(list){
+    let arr = [];
+    let lst = list.rest;;
+    arr.push(list.value);
+    while(lst.rest){
+        arr.push(lst.value);
+        lst = lst.rest;
+    }
+    arr.push(lst.value);
+    return arr;
+}
+```
