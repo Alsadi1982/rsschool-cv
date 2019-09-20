@@ -44,3 +44,17 @@ function listToArray(list){
 ### Experience
 
 Following the results of the javascript course, we made [a simple website with current weather](https://github.com/Alsadi1982/weather-report) on ReactJS.
+
+### Education
+
+2004 - 2009  Nizhny Novgorod Commercial Institute "Faculty of Applied Informatics in Economics".
+
+2019 - u.n.  Nizhniy Novgorod Institute of Information Technologies  "Software development".
+
+2019 Codecademy  courses: "Introduction to HTML", "Learn CSS".
+
+2019 HTMLacademy course: "HTML basics"
+
+### English
+
+december 2018 - april 2019  Nizhniy Novgorod Institute of Information Technologies  course: "English pre-Intermediate"
