@@ -1,0 +1,19 @@
+.wrapper{
+
+    width: 1024px;
+    margin: auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    line-height: 5;
+   
+}
+
+figure{
+    
+}
